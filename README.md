@@ -22,7 +22,7 @@ Duration: Total Duration - in minutes or number of seasons
 Listed_in: Genre
 Description: The summary description
 
-## What is expected to fund out ?
+## What is expected to find out ?
 
 The exploration should have a goal. As you explore the data, keep in mind that you want to answer which type of shows to produce and how to grow the business.
 Ensure each recommendation is backed by data. The company is looking for data-driven insights, not personal opinions or anecdotes.
